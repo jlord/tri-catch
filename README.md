@@ -1,2 +1,3 @@
 # tri-catch
-website for viewing arrival times of pdx buses at your fave stops 
+
+To be a website you can bookmark on your phone and whose address is a querystring of your favorite PDX bus stops. 
